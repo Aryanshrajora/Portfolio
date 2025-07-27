@@ -1,2 +1,2 @@
 # aryansh.github.io
-My Embedded Engineering Portfolio For Frelance
+My Embedded Engineering Portfolio For Freelance
